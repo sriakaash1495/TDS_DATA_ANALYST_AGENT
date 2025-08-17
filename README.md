@@ -6,8 +6,8 @@
 
 ---
 
-## 🔥 **What is AI Data Analyst Pro?**  
-An **AI-powered data analysis engine** built with **FastAPI**, **LangChain**, and **Google Generative AI**, delivering **instant insights, visualizations, and summaries** from any dataset.  
+## 🔥 **Data Analyst Agent**  
+A **data analysis engine** built with **FastAPI**, **LangChain**, and **Google Generative AI**, delivering **instant insights, visualizations, and summaries** from any dataset.  
 
 ✔ **Conversational Queries → Structured Answers**  
 ✔ **Dynamic Visual Reports**  
